@@ -10,7 +10,7 @@ interface RotatingRolesProps {
 }
 
 export default function RotatingRoles({
-  roles = ['Product Designer', 'Graphics Designer', 'Brand Designer'],
+  roles = ['Product Designer', 'Graphic Designer', 'Brand Designer'],
   baseText = "I'm a ",
   rotationSpeed = 5000,
   className = ''
