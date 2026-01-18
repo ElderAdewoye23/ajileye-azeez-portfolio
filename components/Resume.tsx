@@ -14,7 +14,7 @@ function Resume() {
                 </Link>
             </div>
             <div>
-                <Image src="/imageandcv/resume.png" alt="Yoga Project" width={400} height={400} className="rounded-lg w-full h-auto object-cover" />
+                <Image src="/imageandcv/resume.svg" alt="Yoga Project" width={400} height={400} className="rounded-lg w-full h-auto object-cover" />
             </div>
         </div>
   )

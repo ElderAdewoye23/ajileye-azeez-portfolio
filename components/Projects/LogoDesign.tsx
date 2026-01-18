@@ -36,7 +36,7 @@ function LogoDesign() {
     },
     {
 title: 'Hire Me',
-link: '#'
+link: '/hire'
     }
 ];
 
@@ -55,7 +55,7 @@ link: '#'
         </div>
         {/* Logo Design */}
         <div className="relative overflow-hidden">
-          <div className="flex animate-scroll">
+          <div className="flex animate-scroll gap-4">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 flex-shrink-0 min-w-full">
               {logos.map((src, index) => (
                 <div key={index} className="flex items-center justify-center p-4 bg-white rounded-lg shadow-md">

@@ -40,12 +40,12 @@ function About() {
                 </p>
                 <div className="space-y-4">
                     <div className="bg-white p-6 rounded-lg shadow-md">
-                        <h3 className="text-xl text-primary font-langar">Graphic Designer</h3>
+                        <h3 className="text-xl text-background font-langar">Graphic Designer</h3>
                         <p className="text-background">SmartPrint - Lagos State</p>
                         <p className="text-background">2020-2021</p>
                     </div>
                     <div className="bg-white p-6 rounded-lg shadow-md">
-                        <h3 className="text-xl text-primary font-langar">Product Designer</h3>
+                        <h3 className="text-xl text-background font-langar">Product Designer</h3>
                         <p className="text-background">Internship</p>
                         <p className="text-background">2025</p>
                     </div>
@@ -63,17 +63,17 @@ function About() {
                 </p>
                 <div className="space-y-4">
                     <div className="bg-white p-6 rounded-lg shadow-md">
-                        <h3 className="text-xl text-primary font-langar">Tertiary</h3>
+                        <h3 className="text-xl text-background font-langar">Tertiary</h3>
                         <p className="text-background">Kwara State Polytechnic (ND & HND)</p>
                         <p className="text-background">Ilorin, Kwara State, NG</p>
                     </div>
                     <div className="bg-white p-6 rounded-lg shadow-md">
-                        <h3 className="text-xl text-primary font-langar">Secondary</h3>
+                        <h3 className="text-xl text-background font-langar">Secondary</h3>
                         <p className="text-background">Great Knowledge Academic Secondary School</p>
                         <p className="text-background">Ogun State, NG</p>
                     </div>
                     <div className="bg-white p-6 rounded-lg shadow-md">
-                        <h3 className="text-xl text-primary font-langar">Primary</h3>
+                        <h3 className="text-xl text-background font-langar">Primary</h3>
                         <p className="text-background">MainSpring Nursery and Primary School</p>
                         <p className="text-background">Lagos State, NG</p>
                     </div>

@@ -33,9 +33,12 @@ function HireMe() {
             </div>
 
             <div className="text-center">
-                <button className="bg-primary text-background px-8 py-4 rounded-lg font-langar text-lg hover:bg-secondary transition-colors shadow-lg hover:shadow-xl">
-                    CONTACT AJILEYE AZEEZ AGBOOLA
-                </button>
+                <a
+  href="mailto:Ajileyeazeez@yahoo.com?subject=Project Inquiry"
+  className="inline-block bg-primary text-background px-8 py-4 rounded-lg font-langar text-lg hover:bg-secondary transition-colors shadow-lg hover:shadow-xl"
+>
+  CONTACT AJILEYE AZEEZ AGBOOLA
+</a>
                 <p className="text-secondary mt-4">Thank you for considering my services!</p>
             </div>
         </div>

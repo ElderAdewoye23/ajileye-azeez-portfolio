@@ -1,3 +1,4 @@
+
 import { FaInstagram,  FaWhatsapp, FaLinkedinIn, FaGithub , FaTwitter, FaFacebook, FaTiktok} from "react-icons/fa";
 
 
@@ -22,4 +23,41 @@ export const Experience = [
     }
 ]
 
-   export  const NavIcons= [FaWhatsapp,FaTwitter,FaInstagram,FaFacebook,FaLinkedinIn, FaGithub , FaTiktok];
+   export  const NavIcons= [
+    {
+        id:1,
+        link:'#',
+        Icon: FaWhatsapp
+    },
+    {
+        id:2,
+        link:'#',
+        Icon: FaTwitter
+    },
+    {
+        id:3,
+        link:'#',
+        Icon: FaInstagram
+    },
+    {
+        id:4,
+        link:'#',
+        Icon: FaLinkedinIn
+    },
+    {
+        id:5,
+        link:'#',
+        Icon: FaGithub
+    },
+    {
+        id:6,
+        link:'https://www.facebook.com',
+        Icon: FaFacebook
+    },
+    {
+        id:7,
+        link:'#',
+        Icon: FaTiktok
+    }
+   ];
+

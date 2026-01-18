@@ -63,7 +63,7 @@ function NameTypewriter({
 
   return (
     <div className={`inline-flex items-center ${className}`}>
-      <span className="font-langar text-primary text-2xl md:text-3xl lg:text-4xl">
+      <span className="font-langar text-primary text-4xl md:text-5xl lg:text-6xl">
         {displayText}
       </span>
       

@@ -58,7 +58,7 @@ export default function RotatingRoles({
       <span className="text-primary">
         {baseText}
       </span>
-      <span className="text-secondary font-medium ml-2 min-w-[180px]">
+      <span className="text-secondary text-3xl md:text-4xl font-medium ml-2 min-w-[180px]">
         {displayedText}
         <span className="inline-block w-[3px] h-[1.2em] bg-secondary ml-1" />
       </span>

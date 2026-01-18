@@ -23,8 +23,8 @@ function Navbar() {
     </div>
     {/* second section */}
     <p className=' bg-primary text-background px-4 py-2 mt-4 md:mt-0 cursor-pointer hover:bg-secondary w-full md:w-max justify-center'>
-       <Link href="/resume" className='flex items-center space-x-2'>
-        <span>View my CV</span>
+       <Link href="/resume" className='flex items-center space-x-2 justify-center'>
+        <span className='font-semibold'>View my CV</span>
      <span> <ArrowUpRight className='w-4 h-4' /></span>
        </Link>
      </p>

@@ -18,7 +18,7 @@ const designType = [
     },
     {
 title: 'Hire Me',
-link: '#'
+link: '/hire'
     }
 ];
 
@@ -38,7 +38,7 @@ link: '#'
         </div>
         {/* Logo Design */}
         <div className='mb-4'>
-                    <Image src="/brand design/brand.png" alt="EduInvest Project" width={400} height={400} className="rounded-lg w-full h-auto object-cover" />
+                    <Image src="/brand design/brand.png" alt="Branding Project" width={400} height={400} className="rounded-lg w-full h-auto object-cover" />
                 </div>
                 <div className="text-center mt-8">
             {designType.map((type, index) => (

@@ -53,7 +53,7 @@ function ArcadeFullView() {
     },
     {
 title: 'Hire Me',
-link: '#'
+link: '/hire'
     }
 ];
 
